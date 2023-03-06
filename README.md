@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-congqin.chen@ryerson.ca
+congqin.chen@torontomu.ca
 
 <!---
 coppergold2/coppergold2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
