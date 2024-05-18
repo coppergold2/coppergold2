@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @coppergold2
-- 👀 I’m interested in Machine Learning 
+- 👀 I’m interested in Machine Learning & AI
 - 🌱 I’m currently learning AI & Machine Learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
-congqin.chen@torontomu.ca
+c1336873249@gmail.com
 
 <!---
 coppergold2/coppergold2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
