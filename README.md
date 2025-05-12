@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coppergold2
+- 👋 Hi, I’m Cooper Chen
 - 👀 I’m interested in Machine Learning & AI
 - 🌱 I’m currently learning AI & Machine Learning 
 - 💞️ I’m looking to collaborate on anything
