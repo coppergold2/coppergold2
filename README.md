@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Cooper Chen
-- 👀 I’m interested in Machine Learning & AI
-- 🌱 I’m currently learning AI & Machine Learning 
+- 👋 Hi, I’m Cooper Chen, I graduated from Toronto Metropolicant university with a bachelor of science computer science degree
+- 👀 I’m interested in using Machine Learning & AI to help on anything
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
 c1336873249@gmail.com
