@@ -8,6 +8,8 @@ I graduated from Toronto Metropolitan University with a Bachelor of Science in C
 
 📫 How to reach me: c1336873249@gmail.com
 
+🔗 [LinkedIn](https://linkedin.com/in/cooperchen2) 
+
 <!---
 coppergold2/coppergold2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
