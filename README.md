@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Cooper Chen, I graduated from Toronto Metropolicant university with a bachelor of science computer science degree
-- 👀 I’m interested in using Machine Learning & AI to help on anything
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 
-c1336873249@gmail.com
+👋 Hi, I’m Cooper Chen.
+
+I graduated from Toronto Metropolitan University with a Bachelor of Science in Computer Science.
+
+👀 I’m passionate about using Machine Learning & AI to solve real-world problems.
+
+💞 I’m open to collaborating on innovative projects in the computer science field.
+
+📫 How to reach me: c1336873249@gmail.com
 
 <!---
 coppergold2/coppergold2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
