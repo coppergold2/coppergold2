@@ -6,7 +6,7 @@ I graduated from Toronto Metropolitan University with a Bachelor of Science in C
 
 💞 I’m open to collaborating on innovative projects in the computer science field.
 
-📫 How to reach me: c1336873249@gmail.com
+📫 How to reach me: cooper.chen.work@gmail.com
 
 🔗 [LinkedIn](https://linkedin.com/in/cooperchen2) 
 
