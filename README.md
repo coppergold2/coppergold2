@@ -1,8 +1,8 @@
 👋 Hi, I’m Cooper Chen.
 
 I graduated from Toronto Metropolitan University with a Bachelor of Science in Computer Science.
-
-👀 I’m passionate about using Machine Learning & AI to solve real-world problems.
+I'm really good with logics
+👀 I’m passionate about using Machine Learning & AI to solve real-world problems. 
 
 💞 I’m open to collaborating on innovative projects in the computer science field.
 
